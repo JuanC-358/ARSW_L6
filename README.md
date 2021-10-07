@@ -1,4 +1,4 @@
-# ARSW_L5
+# ARSW_L6
 **Integrantes**
 - Juan Pablo Contreras Amaya
 - Ricardo Amaya Rivera
